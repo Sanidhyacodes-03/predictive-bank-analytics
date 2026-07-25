@@ -1,4 +1,18 @@
+
 # 🏦 Bank Customer Churn Prediction Dashboard
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+## 🌐 Live Demo
+
+**Application:** https://predictive-bank-analytics.streamlit.app/
+
+## 📂 GitHub Repository
+
+https://github.com/Sanidhyacodes-03/predictive-bank-analytics
 
 An interactive Machine Learning dashboard built using **Python**, **Streamlit**, and **Scikit-Learn** to predict customer churn in the banking sector.
 
