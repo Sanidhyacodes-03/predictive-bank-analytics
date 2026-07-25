@@ -47,6 +47,21 @@ The application includes an interactive dashboard for business users, allowing t
 
 ---
 
+# 🚀 Project Highlights
+
+- End-to-End Machine Learning Pipeline
+- Random Forest Classification Model
+- Interactive Streamlit Dashboard
+- Customer Churn Probability Prediction
+- Business Insight Generation
+- Exploratory Data Analysis (EDA)
+- Feature Importance Visualization
+- Real-Time Predictions
+- Cloud Deployment using Streamlit Community Cloud
+
+---
+
+
 # ✨ Features
 
 ### 📊 Interactive Dashboard
@@ -280,18 +295,20 @@ Customer Churn Prediction
 
 # 📈 Model Performance
 
-The machine learning models were evaluated using multiple performance metrics.
+The Random Forest Classifier was selected after comparing multiple classification models.
 
 ### Evaluation Metrics
 
-- ✅ Confusion Matrix
-- ✅ ROC Curve
-- ✅ Precision-Recall Curve
-- ✅ Feature Importance
-- ✅ Model Comparison
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- ROC-AUC Score
+- Confusion Matrix
+- Precision-Recall Curve
+- Feature Importance
 
-The **Random Forest Classifier** was selected as the final model due to its strong predictive performance and robustness in customer churn classification.
-
+The model provides robust customer churn predictions suitable for business decision support.
 ---
 
 # 💡 Business Value
@@ -308,19 +325,21 @@ This application helps banks and financial institutions to:
 
 # 🚀 Future Improvements
 
-- Deploy the application to the cloud.
-- Integrate with real-time banking databases.
-- Add advanced machine learning models such as XGBoost and LightGBM.
-- Implement customer segmentation and personalized recommendations.
-- Build an automated customer retention recommendation system.
+- Integrate SHAP Explainable AI (XAI)
+- Add customer lifetime value prediction
+- Deploy using Docker
+- Add user authentication
+- Enable database connectivity
+- Integrate real-time banking APIs
+- Add automated email alerts for high-risk customers
+- Build a customer retention recommendation engine
 
+  
 ---
 
 # 👨‍💻 Developer
 
 **Sanidhya Singh Sisodiya**
-
-### Skills
 
 ### Skills
 
