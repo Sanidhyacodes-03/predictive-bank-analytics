@@ -62,7 +62,7 @@ def show(df, BASE_DIR):
 
         <h4>👥 Customers</h4>
 
-        <h2>{total_customers:,}</h2>
+        <h2>€{avg_balance:,.2f}</h2>
 
         </div>
         """,unsafe_allow_html=True)
