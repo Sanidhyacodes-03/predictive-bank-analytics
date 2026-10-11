@@ -54,8 +54,8 @@ def show(model):
             650
         )
 
-        balance = st.number_input(
-            "Account Balance",
+        estimated_salary = st.number_input(
+            "Estimated Annual Salary (€)",
             min_value=0.0,
             value=50000.0
         )
